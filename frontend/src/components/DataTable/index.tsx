@@ -37,7 +37,7 @@ const DataTable = () => {
                             <th>Data</th>
                             <th>Vendedor</th>
                             <th>Clientes visitados</th>
-                            <th>NegÃ³cios fechados</th>
+                            <th>Negócios fechados</th>
                             <th>Valor</th>
                         </tr>
                     </thead>
